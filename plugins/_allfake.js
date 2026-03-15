@@ -89,7 +89,7 @@ handler.all = async function (m) {
         isForwarded: true,
         forwardingScore: 1,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363285845738492@newsletter",
+          newsletterJid: "120363285847738492@newsletter",
           serverMessageId: 103,
           newsletterName: `Chat BOT    |   i bot Whatsapp`,
         },
