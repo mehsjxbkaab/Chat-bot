@@ -14,38 +14,37 @@ global.setting = {
  }
 
 global.info = {
- nomerbot : '212635538684',
- pairingNumber : '212635538684',
- figlet: 'silanalite', // create a start console display
+ nomerbot : '212675617959',
+ pairingNumber : '212675617959',
+ figlet: 'Chat bot', // create a start console display
  nomorwa : '212605784394',
  nameown : 'NOUREDDINE',
- nomerown : '212717457920',
+ nomerown : '212635538684',
  packname : 'sticker by ',
- author : 'SILANA AI',
- namebot : '乂 SILANA AI',
- wm : 'SILANA LITE.',
+ author : 'Chat  AI',
+ namebot : '乂 bot AI',
+ wm : 'bot LITE.',
  stickpack : 'Whatsapp',
- stickauth : 'SILANA LITE',
+ stickauth : 'free LITE',
  jid: '@s.whatsapp.net'
 }
 
 // Thumbnail 
 global.media = {
- ppKosong : 'https://i.ibb.co/3Fh9V6p/avatar-contact.png',
- didyou : 'https://telegra.ph/file/e40219cc8d472025f18b6.jpg',
- rulesBot : 'https://telegra.ph/file/7cd8985216ffd3c376238.jpg',
- thumbnail : 'https://files.catbox.moe/hnbuh3.jpg',
- thumb : 'https://files.catbox.moe/hnbuh3.jpg',
- logo : 'https://files.catbox.moe/hnbuh3.jpg',
- unReg : 'https://telegra.ph/file/ef02d1fdd59082d05f08d.jpg',
- registrasi : 'https://files.catbox.moe/hnbuh3.jpg',
- confess : 'https://telegra.ph/file/bfef7e33bc60dd2608ac6.jpg',
- access : 'https://telegra.ph/file/5c35d4a180b9074a9f11b.jpg',
+ ppKosong : 'https://files.catbox.moe/h6md84.jpeg',
+ didyou : 'https://files.catbox.moe/h6md84.jpeg',
+ rulesBot : 'https://files.catbox.moe/h6md84.jpeg',
+ thumbnail : 'https://files.catbox.moe/h6md84.jpeg',
+ thumb : 'https://files.catbox.moe/h6md84.jpeg',
+ logo : 'https://files.catbox.moe/h6md84.jpeg',
+ unReg : 'https://files.catbox.moe/h6md84.jpeg',
+ registrasi : 'https://files.catbox.moe/h6md84.jpeg',
+ confess : 'https://files.catbox.moe/h6md84.jpeg',
+ access : 'https://files.catbox.moe/h6md84.jpeg',
  tqto : 'https://telegra.ph/file/221aba241e6ededad0fd5.jpg',
- spotify : 'https://telegra.ph/file/d888041549c7444f1212b.jpg',
- weather : 'https://telegra.ph/file/5b35ba4babe5e31595516.jpg',
- gempaUrl : 'https://telegra.ph/file/03e70dd45a9dc628d84c9.jpg',
- akses : 'https://telegra.ph/file/6c7b9ffbdfb0096e1db3e.jpg',
+ spotify : 'https://files.catbox.moe/h6md84.jpeg',
+ weather : 'https://files.catbox.moe/h6md84.jpeg',
+ akses : 'https://files.catbox.moe/h6md84.jpeg',
  wel : 'https://telegra.ph/file/9dbc9c39084df8691ebdd.mp4',
  good : 'https://telegra.ph/file/1c05b8c019fa525567d01.mp4',
  sound: 'https://pomf2.lain.la/f/ymca9u8.opus'
