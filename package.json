@@ -1,7 +1,7 @@
 {
-  "name": "silanalite",
+  "name": "chat bot",
   "version": "1.0.0",
-  "description": "Silana-lite",
+  "description": "chat-bot",
   "main": "index.js",
   "type": "module",
   "directories": {
