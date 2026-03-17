@@ -17,15 +17,15 @@ global.info = {
  nomerbot : '212675617959',
  pairingNumber : '212675617959',
  figlet: 'Chat bot', // create a start console display
- nomorwa : '212605784394',
- nameown : 'NOUREDDINE',
+ nomorwa : '212675617959',
+ nameown : 'mustafa',
  nomerown : '212635538684',
  packname : 'sticker by ',
- author : 'Chat  AI',
- namebot : '乂 bot AI',
- wm : 'bot LITE.',
+ author : 'Chat AI',
+ namebot : '乂 Chat AI',
+ wm : 'Chat LITE.',
  stickpack : 'Whatsapp',
- stickauth : 'free LITE',
+ stickauth : 'Chat BOT',
  jid: '@s.whatsapp.net'
 }
 
@@ -41,19 +41,20 @@ global.media = {
  registrasi : 'https://files.catbox.moe/h6md84.jpeg',
  confess : 'https://files.catbox.moe/h6md84.jpeg',
  access : 'https://files.catbox.moe/h6md84.jpeg',
- tqto : 'https://telegra.ph/file/221aba241e6ededad0fd5.jpg',
+ tqto : 'https://files.catbox.moe/h6md84.jpeg',
  spotify : 'https://files.catbox.moe/h6md84.jpeg',
  weather : 'https://files.catbox.moe/h6md84.jpeg',
- akses : 'https://files.catbox.moe/h6md84.jpeg',
+ gempaUrl : '212635538684',
+ akses : '212635538684',
  wel : 'https://telegra.ph/file/9dbc9c39084df8691ebdd.mp4',
  good : 'https://telegra.ph/file/1c05b8c019fa525567d01.mp4',
  sound: 'https://pomf2.lain.la/f/ymca9u8.opus'
 }
 // Social media
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://instagram.com/noureddine_ouafy',
- sgc: 'https://whatsapp.com/channel/0029VaX4b6J7DAWqt3Hhu01A'
+ sig: 'https://whatsapp.com/channel/0029Vb7obv8Fy72937jJb32V',
+ sgh:  'https://whatsapp.com/channel/0029Vb7obv8Fy72937jJb32V',
+ sgc: 'https://whatsapp.com/channel/0029Vb7obv8Fy72937jJb32V'
 }
 // Donasi
 global.payment = {
@@ -64,7 +65,7 @@ global.payment = {
 // Info Wait
 global.msg = {
  wait: '⏱️ *يرجى التحلي بالصبر*\n\> نحاول تلبية طلبكم ...',
- eror: '🤖 *Information Bot*\n\> Sorry for the inconvenience in using *Silana Ai*. There was an error in the system while executing the command.'
+ eror: '🤖 *Information Bot*\n\> Sorry for the inconvenience in using *Chat AI*. There was an error in the system while executing the command.'
 }
  
 // api_id web suntik
@@ -75,8 +76,8 @@ global.apiId = {
 
 // Apikey
 global.api = {
- user: '-', // api_id antinsfw 
- screet: '-', // api_screet nsfw after that, replace it yourself
+ user: '-', 
+ screet: '-', 
  uptime: '-',
  xyro: '-',
  lol: 'GataDiosV2',
@@ -106,3 +107,4 @@ watchFile(file, () => {
   console.log(chalk.redBright("Update 'settings.js'"))
   import(`${file}?update=${Date.now()}`)
 })
+  
